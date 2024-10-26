@@ -1,0 +1,17 @@
+D:\C# dersleri\Search\Search\bin\Debug\net8.0-windows\Search.exe
+D:\C# dersleri\Search\Search\bin\Debug\net8.0-windows\Search.deps.json
+D:\C# dersleri\Search\Search\bin\Debug\net8.0-windows\Search.runtimeconfig.json
+D:\C# dersleri\Search\Search\bin\Debug\net8.0-windows\Search.dll
+D:\C# dersleri\Search\Search\bin\Debug\net8.0-windows\Search.pdb
+D:\C# dersleri\Search\Search\obj\Debug\net8.0-windows\Search.Form1.resources
+D:\C# dersleri\Search\Search\obj\Debug\net8.0-windows\Search.Form2.resources
+D:\C# dersleri\Search\Search\obj\Debug\net8.0-windows\Search.csproj.GenerateResource.cache
+D:\C# dersleri\Search\Search\obj\Debug\net8.0-windows\Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\Search\Search\obj\Debug\net8.0-windows\Search.AssemblyInfoInputs.cache
+D:\C# dersleri\Search\Search\obj\Debug\net8.0-windows\Search.AssemblyInfo.cs
+D:\C# dersleri\Search\Search\obj\Debug\net8.0-windows\Search.csproj.CoreCompileInputs.cache
+D:\C# dersleri\Search\Search\obj\Debug\net8.0-windows\Search.dll
+D:\C# dersleri\Search\Search\obj\Debug\net8.0-windows\refint\Search.dll
+D:\C# dersleri\Search\Search\obj\Debug\net8.0-windows\Search.pdb
+D:\C# dersleri\Search\Search\obj\Debug\net8.0-windows\Search.genruntimeconfig.cache
+D:\C# dersleri\Search\Search\obj\Debug\net8.0-windows\ref\Search.dll
